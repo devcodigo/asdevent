@@ -9,6 +9,7 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
+                <form>
                 <fieldset class="p-4">
                     <div>
                         <legend class="font-bold">Gender</legend>
@@ -21,6 +22,7 @@
 
                     </div>
                     </fieldset>
+                    </form>
                 </div>
             </div>
         </div>
